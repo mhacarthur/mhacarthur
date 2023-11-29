@@ -1,3 +1,5 @@
+## Hi there!
+
 - 👋 Hi, I’m @mhacarthur
 - 👀 I’m interested in python
 - 🌱 I’m currently learning complex network and Precipitation Features
