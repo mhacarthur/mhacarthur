@@ -1,9 +1,5 @@
 ## Hi there!
-- 👋 Hi, I’m @mhacarthur
-- 👀 I’m interested in python
-- 🌱 I’m currently learning complex network and Precipitation Features
-- 🪖 I’m looking to collaborate on Sinapse
-- 📫 How to reach me: arturo66cta@gmail.com
+👋 Hi, I'm Arturo! Currently, I have an interest in complex networks, precipitation features, and machine learning. I work in Meteorology, Climatology, Extreme Events, and Data Analysis. I'm actively exploring parallel computing in Python to push the boundaries of computational efficiency. Let's connect and collaborate! 🌐 How to reach me: arturo66cta@gmail.com
 
 ## My GitHub Stats
 <p align="center">
