@@ -2,6 +2,7 @@
 👋 Hi, I'm Arturo! Currently, I have an interest in complex networks, precipitation features, and machine learning. I work in Meteorology, Climatology, Extreme Events, and Satellite Data Analysis. I'm actively exploring parallel computing in Python to push the boundaries of computational efficiency. Let's connect and collaborate! 🌐 
 
 Mail: arturo66cta@gmail.com 
+
 Research Gate: [https://www.researchgate.net/profile/C-Arturo-P](https://www.researchgate.net/profile/C-Arturo-P)
 
 ## My GitHub Stats
