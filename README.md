@@ -10,8 +10,6 @@ Research Gate: [https://www.researchgate.net/profile/C-Arturo-P](https://www.res
 ## My GitHub Stats
 <p align="center">
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mhacarthur&show_icons=true&hide_border=true" alt="Gift's LangStat" />
-<br>
-<br>
 <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mhacarthur" alt="Gift's LangStat" />
 </p>
 
