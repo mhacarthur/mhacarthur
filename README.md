@@ -15,8 +15,7 @@ Research Gate: [https://www.researchgate.net/profile/C-Arturo-P](https://www.res
 
 ## TEST
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhacarthur&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mhacarthur&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhacarthur&layout=compact&hide_border=true" />
 </p>
 
 <!---
