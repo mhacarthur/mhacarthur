@@ -13,11 +13,6 @@ Research Gate: [https://www.researchgate.net/profile/C-Arturo-P](https://www.res
 <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mhacarthur" alt="Gift's LangStat" />
 </p>
 
-## TEST
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhacarthur&layout=compact&hide_border=true" />
-</p>
-
 <!---
 My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 mhacarthur/mhacarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
